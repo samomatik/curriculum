@@ -1901,6 +1901,7 @@ Submit a pull request with a link to your solution in this [file](https://github
 * [XCarmaIX's Solution (Easy)](https://github.com/XCarmaIX/google-homepage) - [View in Browser]
 (https://xcarmaix.github.io/google-homepage/)
 * [CoolHandLuke79's Solution (Easy)](https://github.com/CoolHandLuke79/google-homepage) - [View in Browser](https://coolhandluke79.github.io/google-homepage/)
+* [Samomatik's Solution (Easy)](https://github.com/samomatik/google-homepage) - [View in Browser](https://samomatik.github.io/google-homepage/)
 
 
 ### Additional Resources
